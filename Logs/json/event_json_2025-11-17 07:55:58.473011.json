@@ -1,0 +1,32 @@
+[
+    {
+        "raw": "event_pageView(event_id='2057', event_type='page_view', timestamp=1763362558.473036, user_id='7969', session_id='4348', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_pageView(event_id='6823', event_type='page_view', timestamp=1763362558.473353, user_id='3365', session_id='3439', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_pageView(event_id='1810', event_type='page_view', timestamp=1763362558.4737768, user_id='1096', session_id='7335', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_pageView(event_id='2260', event_type='page_view', timestamp=1763362558.473867, user_id='291', session_id='4962', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_pageView(event_id='2105', event_type='page_view', timestamp=1763362558.473931, user_id='7017', session_id='8171', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='1706', event_type='purchase', timestamp=1763362558.473995, user_id='4541', session_id='1326', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='882', event_type='purchase', timestamp=1763362558.474066, user_id='5001', session_id='2313', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='3918', event_type='purchase', timestamp=1763362558.474116, user_id='4303', session_id='6151', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='5636', event_type='purchase', timestamp=1763362558.4741602, user_id='8912', session_id='7146', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='3437', event_type='purchase', timestamp=1763362558.474206, user_id='2680', session_id='4141', product_id='5', product_name='product_5', product_price=99.99)"
+    }
+]

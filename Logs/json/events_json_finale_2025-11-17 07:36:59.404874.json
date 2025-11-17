@@ -1,0 +1,8 @@
+[
+    {
+        "raw": "event_pageView(event_id='788', event_type='page_view', timestamp=1763361419.4048882, user_id='658', session_id='3891', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='9014', event_type='purchase', timestamp=1763361419.4051762, user_id='7361', session_id='1080', product_id='5', product_name='product_5', product_price=99.99)"
+    }
+]
