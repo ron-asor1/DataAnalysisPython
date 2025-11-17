@@ -1,0 +1,5 @@
+[
+    {
+        "raw": "event_pageView(event_id='8777', event_type='page_view', timestamp=1763368674.060745, user_id='7915', session_id='9313', product_id='5', product_name='product_5', product_price=99.99)"
+    }
+]

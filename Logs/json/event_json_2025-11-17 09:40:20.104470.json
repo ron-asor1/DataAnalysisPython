@@ -1,0 +1,29 @@
+[
+    {
+        "raw": "event_pageView(event_id='5083', event_type='page_view', timestamp=1763368823.5476139, user_id='9970', session_id='1015', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='6869', event_type='purchase', timestamp=1763368824.195453, user_id='1610', session_id='4203', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='4150', event_type='purchase', timestamp=1763368849.96842, user_id='5075', session_id='9095', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='869', event_type='purchase', timestamp=1763368850.6152818, user_id='2182', session_id='397', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='9128', event_type='purchase', timestamp=1763368850.9631512, user_id='671', session_id='7681', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_pageView(event_id='1609', event_type='page_view', timestamp=1763368859.779989, user_id='8901', session_id='4132', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='551', event_type='purchase', timestamp=1763368870.9888299, user_id='9035', session_id='4241', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='1704', event_type='purchase', timestamp=1763368894.145927, user_id='6421', session_id='2673', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_pageView(event_id='410', event_type='page_view', timestamp=1763368894.5399392, user_id='8385', session_id='5664', product_id='5', product_name='product_5', product_price=99.99)"
+    }
+]

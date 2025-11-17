@@ -1,0 +1,19 @@
+<button onclick="trigger('pageview')">Run Function A</button>
+<button onclick="trigger('purchase')">Run Function B</button>
+<div id="output"></div>
+
+<script>
+function trigger(func) {
+    let url = `/trigger_${func}`;  // match the Flask route
+    fetch(url, { method: "POST" })
+        .then(res => res.json())
+        .then(data => {
+            // show message from Flask
+            document.getElementById("output").innerText = data.message;
+        })
+        .catch(err => {
+            document.getElementById("output").innerText = "Error sending event!";
+            console.error(err);
+        });
+}
+</script>
