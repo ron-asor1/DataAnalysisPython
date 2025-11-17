@@ -1,6 +1,7 @@
 from app.Events import event_pageView, event_Purchase
 import time
 import random
+from datetime import datetime
 
 usedEvenetIds = set()
 usedUserIds = set()
@@ -15,7 +16,7 @@ class EventGenerator:
         return event_pageView(
             event_id=get_unique_event_id(),
             event_type="page_view",
-            timestamp=time.time(),
+            timestamp=datetime.now(),
             user_id=get_unique_used_id(),
             session_id=get_unique_used_id(),
             product_id='5',
@@ -27,11 +28,11 @@ class EventGenerator:
         return event_Purchase(
             event_id=get_unique_event_id(),
             event_type="purchase",
-            timestamp=time.time(),
+            timestamp=datetime.now(),
             user_id=get_unique_used_id(),
             session_id=get_unique_session_id(),
             product_id='5',
-            product_name='product_5',
+            product_name='product_5',   
             product_price=99.99
         )
 

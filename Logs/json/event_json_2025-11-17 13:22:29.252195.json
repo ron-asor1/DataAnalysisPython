@@ -1,0 +1,23 @@
+[
+    {
+        "raw": "event_pageView(event_id='4727', event_type='page_view', timestamp=datetime.datetime(2025, 11, 17, 13, 22, 34, 398085), user_id='4176', session_id='3990', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='6821', event_type='purchase', timestamp=datetime.datetime(2025, 11, 17, 13, 22, 43, 458338), user_id='586', session_id='6799', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_pageView(event_id='604', event_type='page_view', timestamp=datetime.datetime(2025, 11, 17, 13, 22, 44, 21865), user_id='7822', session_id='9488', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='3774', event_type='purchase', timestamp=datetime.datetime(2025, 11, 17, 13, 22, 44, 420775), user_id='1519', session_id='6107', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_pageView(event_id='3089', event_type='page_view', timestamp=datetime.datetime(2025, 11, 17, 13, 22, 44, 751737), user_id='4335', session_id='8744', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='4384', event_type='purchase', timestamp=datetime.datetime(2025, 11, 17, 13, 22, 45, 124590), user_id='379', session_id='6111', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_pageView(event_id='3907', event_type='page_view', timestamp=datetime.datetime(2025, 11, 17, 13, 22, 45, 454459), user_id='3274', session_id='6595', product_id='5', product_name='product_5', product_price=99.99)"
+    }
+]

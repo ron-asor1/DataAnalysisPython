@@ -25,5 +25,11 @@
     },
     {
         "raw": "event_pageView(event_id='410', event_type='page_view', timestamp=1763368894.5399392, user_id='8385', session_id='5664', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_pageView(event_id='7348', event_type='page_view', timestamp=1763381421.582859, user_id='966', session_id='6105', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='9324', event_type='purchase', timestamp=1763381494.266498, user_id='6709', session_id='8440', product_id='5', product_name='product_5', product_price=99.99)"
     }
 ]
