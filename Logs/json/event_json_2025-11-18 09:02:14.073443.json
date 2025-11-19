@@ -1,0 +1,8 @@
+[
+    {
+        "raw": "event_pageView(event_id='6726', event_type='page_view', timestamp=datetime.datetime(2025, 11, 18, 9, 2, 17, 546734), user_id='6781', session_id='3330', product_id='5', product_name='product_5', product_price=99.99)"
+    },
+    {
+        "raw": "event_Purchase(event_id='2507', event_type='purchase', timestamp=datetime.datetime(2025, 11, 18, 9, 2, 32, 331412), user_id='5526', session_id='2721', product_id='5', product_name='product_5', product_price=99.99)"
+    }
+]

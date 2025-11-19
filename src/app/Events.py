@@ -19,3 +19,4 @@ class event_Purchase(event_basic):
     product_id: str
     product_name: str
     product_price: float
+    
